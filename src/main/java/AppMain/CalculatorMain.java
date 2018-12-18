@@ -18,6 +18,8 @@ public class CalculatorMain {
         
         System.out.println( "adding result of 2 and 4 is : "+ ci.add(2, 4));
         
+        System.out.println( "dot    result of 2 and 4 is : "+ ci.multiply(2, 4));
+        
         System.out.println( "modulo result of 10 by 4 is : "+ ci.modulo(10, 4));
         
     }
