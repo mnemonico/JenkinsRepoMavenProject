@@ -96,5 +96,20 @@ public class CalculatorImpTest {
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
     }
+
+    /**
+     * Test of nothing method, of class CalculatorImp.
+     */
+    @Test
+    public void testNothing() {
+        System.out.println("nothing");
+        int a = 10;
+        CalculatorImp instance = new CalculatorImp();
+        int expResult = a;
+        int result = instance.nothing(a);
+        assertEquals(expResult, result);
+        // TODO review the generated test code and remove the default call to fail.
+        //fail("The test case is a prototype.");
+    }
     
 }

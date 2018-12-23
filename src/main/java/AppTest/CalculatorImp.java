@@ -37,5 +37,10 @@ public class CalculatorImp implements Calculator{
     public double modulo(double a, double b) {
                 return a%b;
     }
+
+    @Override
+    public int nothing(int a) {
+                return a;
+    }
     
 }
