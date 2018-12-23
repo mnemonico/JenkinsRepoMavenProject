@@ -1,11 +1,4 @@
-<<<<<<< OURS
 -------------------------------------------------------------------------------
 Test set: AppTest.CalculatorImpTest
 -------------------------------------------------------------------------------
-Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.094 sec
-=======
--------------------------------------------------------------------------------
-Test set: AppTest.CalculatorImpTest
--------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.078 sec
->>>>>>> THEIRS
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.078 sec
